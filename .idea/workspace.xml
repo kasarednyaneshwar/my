@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="initial mark">
-      <change afterPath="$PROJECT_DIR$/src/com/example/MyArray.java" afterDir="false" />
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="add new class">
+      <change afterPath="$PROJECT_DIR$/src/com/example/BinarySearchMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/SortingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667467714667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add new class">
+      <created>1667469093745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667469093745</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial mark" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial mark" />
+    <MESSAGE value="add new class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new class" />
   </component>
 </project>
