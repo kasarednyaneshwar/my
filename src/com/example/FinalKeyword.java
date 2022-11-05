@@ -1,5 +1,5 @@
 package com.example;
-class Pappa
+final class Pappa
 {
     public void car()
     {
@@ -9,27 +9,37 @@ class Pappa
     {
         System.out.println("banglow,Locker");
     }
-    public final void medical()
+    public void medical()
     {
         System.out.println("father like qualify Neet exam");
     }
 }
-class Son extends Pappa
+class Son
 {
     public void bike()
     {
         System.out.println("Bike");
+    }
+    public void army()
+    {
+        System.out.println("he like an Indian Army");
     }
 }
 public class FinalKeyword
 {
     public static void main(String[] args)
     {
+        final int a=20;
+        System.out.println(a);
       Son s=new Son();
+      System.out.println("All son Properties");
       s.bike();
-      s.car();
-      s.property();
-      s.medical();
+      s.army();
+      Pappa p=new Pappa();
+      System.out.println("All parent Properties");
+      p.car();
+      p.property();
+      p.medical();
 
 
     }
