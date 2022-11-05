@@ -9,6 +9,10 @@ class Pappa
     {
         System.out.println("banglow,Locker");
     }
+    public final void medical()
+    {
+        System.out.println("father like qualify Neet exam");
+    }
 }
 class Son extends Pappa
 {
@@ -25,6 +29,7 @@ public class FinalKeyword
       s.bike();
       s.car();
       s.property();
+      s.medical();
 
 
     }

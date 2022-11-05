@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="add new InheritanceExample1java code">
-      <change afterPath="$PROJECT_DIR$/src/com/example/FinalKeyword.java" afterDir="false" />
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="add new FinalKeyword example code">
+      <change beforePath="$PROJECT_DIR$/src/com/example/FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/FinalKeyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667636957729</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add new FinalKeyword example code">
+      <created>1667663033981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667663033981</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +113,7 @@
     <MESSAGE value="add new Encapsulation code" />
     <MESSAGE value="add new inheritance code" />
     <MESSAGE value="add new InheritanceExample1java code" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new InheritanceExample1java code" />
+    <MESSAGE value="add new FinalKeyword example code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new FinalKeyword example code" />
   </component>
 </project>
