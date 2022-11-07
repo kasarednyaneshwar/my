@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="add String1 Example">
-      <change afterPath="$PROJECT_DIR$/src/com/example/StringExampleJava.java" afterDir="false" />
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="add StringExampleJava">
+      <change afterPath="$PROJECT_DIR$/src/com/example/SplitStringMethodJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,26 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SplitStringMethodJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.SplitStringMethodJava" />
+      <module name="myGitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SplitStringMethodJava" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -122,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667808219181</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add StringExampleJava">
+      <created>1667809152410</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667809152410</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +176,7 @@
     <MESSAGE value="add one String Example" />
     <MESSAGE value="add String Example" />
     <MESSAGE value="add String1 Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add String1 Example" />
+    <MESSAGE value="add StringExampleJava" />
+    <option name="LAST_COMMIT_MESSAGE" value="add StringExampleJava" />
   </component>
 </project>
