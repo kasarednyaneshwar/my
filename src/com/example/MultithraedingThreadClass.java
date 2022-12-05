@@ -15,9 +15,10 @@ public class MultithraedingThreadClass
     {
         MyThread t=new MyThread();
         t.start();
+        //t.run();//perform normal java method and run Thread is not build in these method.
         for(int i=0;i<4;i++)
         {
-            System.out.println("Main Thraed");
+            System.out.println("Main Thread");
         }
     }
 }

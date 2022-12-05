@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="add find domain of the string file">
-      <change afterPath="$PROJECT_DIR$/src/com/example/ArrayClassMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/ListIteratorMethodJavaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/MultithraedingThreadClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="array class,ListIterator,multithrading program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +35,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayClassMethods">
     <configuration name="ArrayClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.ArrayClassMethods" />
       <module name="myGitProject" />
@@ -188,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667889334541</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="array class,ListIterator,multithrading program">
+      <created>1669885178729</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669885178729</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +221,7 @@
     <MESSAGE value="Split String Method Java" />
     <MESSAGE value="Add String Method Java" />
     <MESSAGE value="add find domain of the string file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add find domain of the string file" />
+    <MESSAGE value="array class,ListIterator,multithrading program" />
+    <option name="LAST_COMMIT_MESSAGE" value="array class,ListIterator,multithrading program" />
   </component>
 </project>
