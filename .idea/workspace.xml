@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="Inheritance example">
-      <change afterPath="$PROJECT_DIR$/src/com/example/GratestNumber.java" afterDir="false" />
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="greatest Number java example">
+      <change afterPath="$PROJECT_DIR$/src/com/example/BySimpleMethodsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/ScannerClassJavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/SetAndGetMethodJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/VariableExampleJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/switchStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670222600948</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="greatest Number java example">
+      <created>1670223261480</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670223261480</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +251,7 @@
     <MESSAGE value="add find domain of the string file" />
     <MESSAGE value="array class,ListIterator,multithrading program" />
     <MESSAGE value="Inheritance example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance example" />
+    <MESSAGE value="greatest Number java example" />
+    <option name="LAST_COMMIT_MESSAGE" value="greatest Number java example" />
   </component>
 </project>
