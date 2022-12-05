@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="greatest Number java example">
-      <change afterPath="$PROJECT_DIR$/src/com/example/BySimpleMethodsInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/ScannerClassJavaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/SetAndGetMethodJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/VariableExampleJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/switchStatement.java" afterDir="false" />
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="methods,ScannerClass,Setter getter method,switch statement,variable java Example">
+      <change afterPath="$PROJECT_DIR$/src/com/example/ScannerJavaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/SetterAndGetterJavaExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -218,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670223261480</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="methods,ScannerClass,Setter getter method,switch statement,variable java Example">
+      <created>1670232846618</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670232846618</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +256,7 @@
     <MESSAGE value="array class,ListIterator,multithrading program" />
     <MESSAGE value="Inheritance example" />
     <MESSAGE value="greatest Number java example" />
-    <option name="LAST_COMMIT_MESSAGE" value="greatest Number java example" />
+    <MESSAGE value="methods,ScannerClass,Setter getter method,switch statement,variable java Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="methods,ScannerClass,Setter getter method,switch statement,variable java Example" />
   </component>
 </project>
