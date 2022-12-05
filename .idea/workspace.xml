@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="array class,ListIterator,multithrading program" />
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="array class,ListIterator,multithrading program">
+      <change afterPath="$PROJECT_DIR$/src/com/example/InheritanceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayClassMethods">
+  <component name="RunManager">
     <configuration name="ArrayClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.ArrayClassMethods" />
       <module name="myGitProject" />
@@ -190,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669885178729</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="array class,ListIterator,multithrading program">
+      <created>1670221955611</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670221955611</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
