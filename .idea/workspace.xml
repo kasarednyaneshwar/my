@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="ScannerMethod,Setter and getter,inheritance example">
-      <change afterPath="$PROJECT_DIR$/src/com/example/HierrarichalInheritanceJavaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/JavaVariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/MultilevelInheritanceJavaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/StringClassMethodsJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e9b3b3a-dbdc-496a-b93d-c57c00987c12" name="Changes" comment="Hierarichal inheritance,java variable,multilevel inheritance,String class methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670243422122</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Hierarichal inheritance,java variable,multilevel inheritance,String class methods">
+      <created>1670247530898</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670247530898</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +268,7 @@
     <MESSAGE value="greatest Number java example" />
     <MESSAGE value="methods,ScannerClass,Setter getter method,switch statement,variable java Example" />
     <MESSAGE value="ScannerMethod,Setter and getter,inheritance example" />
-    <option name="LAST_COMMIT_MESSAGE" value="ScannerMethod,Setter and getter,inheritance example" />
+    <MESSAGE value="Hierarichal inheritance,java variable,multilevel inheritance,String class methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hierarichal inheritance,java variable,multilevel inheritance,String class methods" />
   </component>
 </project>
